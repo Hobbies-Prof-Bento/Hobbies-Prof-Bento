@@ -1,4 +1,5 @@
-### Boas vindas ao meu perfil!! <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68859813/143960838-cdea45a4-ec09-4e60-8852-b3f1a75d9540.png">
+### Boas vindas ao meu perfil!!
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68859813/143960838-cdea45a4-ec09-4e60-8852-b3f1a75d9540.png">
  
  <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
