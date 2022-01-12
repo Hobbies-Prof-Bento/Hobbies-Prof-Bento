@@ -1,9 +1,10 @@
-### Boas vindas ao meu perfil!!
+### Oi eu sou o Bento!! 🖖🏾
+ 
+![Snake animation](https://github.com/Hobbies-Prof-Bento/Hobbies-Prof-Bento/blob/output/github-contribution-grid-snake.svg)
+
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68859813/143960838-cdea45a4-ec09-4e60-8852-b3f1a75d9540.png">
  
- <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-  ![Snake animation](https://github.com/Hobbies-Prof-Bento/Hobbies-Prof-Bento/blob/main/Hobbies-Prof-Bento.svg)-->
+  <!--  ![Snake animation](https://github.com/Hobbies-Prof-Bento/Hobbies-Prof-Bento/blob/main/Hobbies-Prof-Bento.svg)-->
 
 
 
