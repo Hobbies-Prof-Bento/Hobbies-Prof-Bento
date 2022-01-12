@@ -1,9 +1,9 @@
 ### Oi eu sou o Bento!! 🖖🏾
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68859813/143960838-cdea45a4-ec09-4e60-8852-b3f1a75d9540.png">
-
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/Hobbies-Prof-Bento/Hobbies-Prof-Bento/blob/output/github-contribution-grid-snake.svg">
-
+<div style="display: inline_block"><br>
+ <img alt="Snake-pic" width="50%" src="https://github.com/Hobbies-Prof-Bento/Hobbies-Prof-Bento/blob/output/github-contribution-grid-snake.svg">
+ <img align="right" alt="Bento-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68859813/143960838-cdea45a4-ec09-4e60-8852-b3f1a75d9540.png">
+ </div>
  
 ![Snake animation](https://github.com/Hobbies-Prof-Bento/Hobbies-Prof-Bento/blob/output/github-contribution-grid-snake.svg)
 
