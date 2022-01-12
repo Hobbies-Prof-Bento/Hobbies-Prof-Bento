@@ -7,6 +7,8 @@
 
 ##
 
+
+
 ### Sobre mim:
 
 Graduado no curso de Licenciatura em Matemática pela Pontifícia Universidade Católica do Paraná, Campus Curitiba e graduando no curso de Engenharia do Software pela Faculdades da Indústria, Campus Afonso Pena.
@@ -16,29 +18,23 @@ Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomo
 
 ### Principais Hard Skills:
 
-<div style="display: inline_block"><br>
- <img style="display: inline" alt="icon-cpp" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
- <img style="display: inline" alt="icon-python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
- <img style="display: inline" alt="icon-html5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
- <img style="display: inline" alt="icon-css3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
- <img style="display: inline" alt="icon-js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Principais ferramentas:
 
-<div style="display: inline_block"><br>
- <img style="display: inline" alt="icon-vuejs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
- <img style="display: inline" alt="icon-nodered" width="40" src="https://user-images.githubusercontent.com/68859813/149219952-500e6403-3467-4db3-897d-88a77c2a9045.png">
- <img style="display: inline" alt="icon-ROS" width="40" src="https://user-images.githubusercontent.com/68859813/149220240-823d8205-60ac-4c51-bf98-406801457a6d.png">
- <img style="display: inline" alt="icon-gazebo" width="40" src="https://user-images.githubusercontent.com/68859813/149220487-229bdb40-226a-4302-89df-40be6790bf75.png">
- <img style="display: inline" alt="icon-rviz" width="40" src="https://user-images.githubusercontent.com/68859813/149220659-93971146-2495-4b5e-8164-12a7fb46ddc8.png">
- <img style="display: inline" alt="icon-vscode" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
- <img style="display: inline" alt="icon-git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
- <img style="display: inline" alt="icon-github" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
- <img style="display: inline" alt="icon-linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
- <img style="display: inline" alt="icon-windows" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
- <img style="display: inline" alt="icon-vim" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-</div>
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![node-red](https://img.shields.io/badge/nodered-%238F0000.svg?style=for-the-badge&logo=nodered&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### GitHub Analytics:
 
