@@ -64,6 +64,8 @@ Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomo
  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white)
 
+### GitHub Analytics:
+
 <div align="center">
   <a href="https://github.com/Hobbies-Prof-Bento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hobbies-Prof-Bento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
