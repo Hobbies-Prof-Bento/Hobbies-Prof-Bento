@@ -63,15 +63,16 @@ Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomo
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white)
-  
- 
- 
-
-
-### GitHub Analytics:
 
 <div align="center">
   <a href="https://github.com/Hobbies-Prof-Bento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hobbies-Prof-Bento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hobbies-Prof-Bento&layout=compact&langs_count=7&theme=dark"/>
 </div>
+	
+### Contato:
+<a href="https://www.linkedin.com/in/clistenes-bento-28430911b/"><img src="https://img.shields.io/badge/-Clistenes_Bento-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://hpbento.com.br"><img src="https://img.shields.io/badge/-hpbento.com.br-%230078D7?style=for-the-badge&logo=Microsoft-Edge&logoColor=white"/>
+    </a>
+<a href="https://www.instagram.com/hobbies_prof_bento/"><img src="https://img.shields.io/badge/-@hobbies_prof_bento-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
