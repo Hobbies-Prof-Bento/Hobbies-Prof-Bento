@@ -48,21 +48,23 @@ Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomo
  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
- 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-  ![Mosquitto](https://img.shields.io/badge/Eclipse%20Mosquitto-%233C5280.svg?style=for-the-badge&logo=Eclipse%20Mosquitto&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+ ![Mosquitto](https://img.shields.io/badge/Eclipse%20Mosquitto-%233C5280.svg?style=for-the-badge&logo=Eclipse%20Mosquitto&logoColor=white)
  
 
 ### Estudando no momento:
 
  ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white)
+ ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 
 ### Áreas de interesse:
 
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
- ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white)
+ 
 
 ### GitHub Analytics:
 
