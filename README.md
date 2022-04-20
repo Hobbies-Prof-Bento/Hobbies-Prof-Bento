@@ -55,8 +55,7 @@ Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomo
 
 ### Estudando no momento:
 
- ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white) 
  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white)
  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 
@@ -64,6 +63,7 @@ Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomo
 
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  
 
 ### GitHub Analytics:
