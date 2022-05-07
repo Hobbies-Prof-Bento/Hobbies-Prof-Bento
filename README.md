@@ -11,7 +11,7 @@
 
 ### Sobre mim:
 
-Graduado no curso de Licenciatura em Matemática pela Pontifícia Universidade Católica do Paraná, Campus Curitiba e graduando no curso de Engenharia do Software pela Faculdades da Indústria, Campus Afonso Pena.
+Graduado no curso de Licenciatura em Matemática pela Pontifícia Universidade Católica do Paraná, Campus Curitiba, graduando no curso de Engenharia do Software pela Faculdades da Indústria, Campus Afonso Pena e cursndo pós em Inteligência Artificial Aplicada na UFPR.
 
 Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomos, apoio em testes de sensores e módulos de comunicação, auxilio no desenvolvimento de programações em controladores lógicos programados (CLP), simulação de aplicações, realização de integração de AMR's com IOT, auxilio do desenvolvimento de interfaces para interação com o usuário e escrita de documentações de software.
 
