@@ -59,7 +59,7 @@ Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomo
  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white)
  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
 
-### Áreas de interesse:
+### outros interesses:
 
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
