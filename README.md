@@ -51,13 +51,13 @@ Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomo
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
  ![Mosquitto](https://img.shields.io/badge/Eclipse%20Mosquitto-%233C5280.svg?style=for-the-badge&logo=Eclipse%20Mosquitto&logoColor=white)
+ ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
  
 
 ### Estudando no momento:
 
  ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white) 
- ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white)
- ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
+ ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white) 
 
 ### outros interesses:
 
