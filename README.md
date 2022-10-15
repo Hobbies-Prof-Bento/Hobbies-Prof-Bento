@@ -1,4 +1,4 @@
-## Oi eu sou o Bento!! 🖖🏾![New Piskel](https://user-images.githubusercontent.com/68859813/196003894-d0377cb5-c32f-439e-98a2-bd013aa172fc.gif)
+## Oi eu sou o Bento!! ![New Piskel](https://user-images.githubusercontent.com/68859813/196003894-d0377cb5-c32f-439e-98a2-bd013aa172fc.gif)
 
 <div style="display: inline_block"><br>
  <img alt="Snake-pic" width="75%" src="https://github.com/Hobbies-Prof-Bento/Hobbies-Prof-Bento/blob/output/github-contribution-grid-snake.svg">
