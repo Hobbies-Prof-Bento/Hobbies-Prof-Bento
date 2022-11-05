@@ -55,7 +55,8 @@ Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomo
 ### Estudando no momento:
 
  ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white) 
- ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white) 
+ ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2302456C.svg?style=for-the-badge&logo=Pastebin&logoColor=white)
+ ![Unity](https://img.shields.io/badge/unity-%23121011.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### outros interesses:
 
