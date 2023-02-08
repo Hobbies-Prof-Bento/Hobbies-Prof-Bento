@@ -21,7 +21,7 @@ jobs:
       - name: generate SVGs
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: YurgenSchn
+          github_user_name: Hobbies-Prof-Bento
           outputs: |
             dist/commit-snake.svg
             dist/commit-snake-dark.svg?palette=github-dark
