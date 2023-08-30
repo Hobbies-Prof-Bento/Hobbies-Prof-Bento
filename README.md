@@ -1,19 +1,25 @@
 ## Oi eu sou o Bento!! ![New Piskel](https://user-images.githubusercontent.com/68859813/196003894-d0377cb5-c32f-439e-98a2-bd013aa172fc.gif)![char3_jump_1](https://user-images.githubusercontent.com/68859813/216802609-33a2ba4e-1da4-498b-bfee-e021f4c7f28c.gif)
 
-
-
-><div style="display: inline_block"><br>
-> <img alt="Snake-pic" width="75%" src="https://github.com/Hobbies-Prof-Bento/Hobbies-Prof-Bento/blob/output/github-contribution-grid-snake.svg">
-> <img align="right" alt="Bento-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68859813/143960838-cdea45a4-ec09-4e60-8852-b3f1a75d9540.png">
-></div>
-
 ##
 
 ### Sobre mim:
 
-Graduado no curso de Licenciatura em Matemática pela Pontifícia Universidade Católica do Paraná, Campus Curitiba, graduando no curso de Engenharia do Software pela Faculdades da Indústria, Campus Afonso Pena e cursndo pós de especialização em Inteligência Artificial Aplicada na UFPR.
+Sou um desenvolvedor de software com paixão por robótica móvel e novas tecnologias. Meus conhecimentos inclui linguagens de programação como Python, C++ e JavaScript; De marcação HTML, CSS e  Latex; Frameworks Vue.js, bem como plataformas de robótica como ROS, Node-RED e OpenCV. Tenho experiência em aprendizado de máquina, SLAM, AMCL e visão computacional, incluindo o uso de filtros de Bayes e o filtro de Kalman estendido para fusão de sensores para localização de robôs.
 
-Atualmente trabalho no desenvolvimento de sistemas para robôs móveis autônomos, apoio em testes de sensores e módulos de comunicação, auxilio no desenvolvimento de programações em controladores lógicos programados (CLP), simulação de aplicações, realização de integração de AMR's com IOT, auxilio do desenvolvimento de interfaces para interação com o usuário e escrita de documentações de software.
+Trabalhei variedade de sensores e tecnologias, incluindo LiDARs, IMUs, encoders de roda e radares no desenvolvimento de robôs AMRs.
+
+Atualmente, estou cursando mestrado em Engenharia elétrica na linha de pesquisa de Controle e Automação e  Pós-Graduação em Inteligência Artificial Aplicada com foco na aplicação de técnicas de inteligência artificial em projetos de robótica móvel. Com graduação em Matemática e Engenharia de Software, tenho uma base sólida tanto na teoria quanto na prática do desenvolvimento de software. Nos últimos dois anos, tenho focado meu trabalho em robótica móvel, trazendo minhas habilidades técnicas para uma variedade de projetos de robótica complexos.
+
+-------------------------------------------
+
+I am a software developer with a passion for mobile robotics and new technologies. My skills include programming languages such as Python, C++, and JavaScript; Markup languages like HTML, CSS, and LaTeX; Vue.js frameworks, as well as robotics platforms such as ROS, Node-RED, and OpenCV. I have experience in machine learning, SLAM, AMCL, and computer vision, including the use of Bayesian filters and the extended Kalman filter for sensor fusion for robot localization.
+
+I have worked with a variety of sensors and technologies, including LiDARs, IMUs, wheel encoders, and radars in the development of AMR robots.
+
+Currently, I am pursuing Master's degree in Electrical Engineering with research line in Control and Automation and other a postgraduate degree in Applied Artificial Intelligence with a focus on applying AI techniques in mobile robotics projects. With a degree in Mathematics and in Software Engineering, I have a solid foundation in both the theory and practice of software development. Over the past two years, I have focused my work on mobile robotics, bringing my technical skills to a variety of complex robotics projects.
+
+Lattes: http://lattes.cnpq.br/3035304401824164
+github: https://github.com/Hobbies-Prof-Bento
 
 
 ### Principais Skills:
